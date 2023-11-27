@@ -1,0 +1,203 @@
+body{
+    display:flexbox;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../img/diseno-patron-color-pastel-caramelo_23-2150627549.jpg'); /* Ruta a tu imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .login-box{
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 650px;
+  }
+  
+  .card {
+    width: 400px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  }
+  
+  .login-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding-left: 20px;
+    font-style: italic;
+    font-size: 50px;
+    
+  }
+  
+  .login-card-body{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .login-box-msg{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  
+  .form-control{
+    padding: 15px;
+  }
+  
+  .btn{
+    background-color: rgb(168, 105, 255);
+    border-radius: 20px;
+    color: #ffffff;
+    margin: 2px;
+    border: rgb(168, 105, 255) ;
+    padding: 10px 20px; /* Puedes añadir un padding para mejorar la apariencia */
+
+  }
+
+  .btn:hover{
+    background-color:hotpink;
+  }
+
+  .btn:active {
+    background-color:hotpink ;
+    transition: background-color 0.3s ease;
+  }
+
+  .form-control{
+    border-color:rgb(168, 105, 255) ;
+  }
+
+  .cajita{
+    border-color:rgb(168, 105, 255) ;
+    display: flex;
+    background-color:rgb(168, 105, 255) ;
+  }
+
+  .imagen{
+    color:#ffffff;
+  }
+
+  .inner{
+    background-color: rgb(194, 151, 255);
+    font-family: italic;
+    border-radius: 2px;
+    
+  }
+  .seguir{
+    background-color: rgb(194, 151, 255);
+    
+  }
+
+  .dulces{
+    font-family: italic;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+
+  .content-wrapper{
+    background-color: rgb(255, 216, 235);
+    background-image: url('../img/diseno-patron-color-pastel-caramelo_23-2150627549.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+
+  .wrapper{
+    background-color: rgb(194, 151, 255);
+  }
+
+  .main-sidebar{
+    background-color: rgb(194, 151, 255);
+    
+
+  }
+
+  .midulceonline{
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 30px;
+    color: #ffffff;
+    margin-top: 10px;
+    border-radius:10px;
+    
+  }
+ 
+  .info{
+    font-size: 20px;
+    font-style: italic;
+    color: #ffffff;
+  }
+  .nav-item{
+    font-family: italic;
+    color: #ffffff;
+  }
+
+  .card{
+    width: 900px; /* Cambia el ancho de la tarjeta */
+    height: 200px; /* Cambia la altura de la tarjeta */
+    margin-top: 2px; /* Ajusta el margen superior */
+    margin-bottom: 10px; /* Ajusta el margen inferior */
+    padding: 15px; /* Ajusta el relleno interno de la tarjeta */
+}
+
+.content-header{
+  font-family: italic;
+  margin-left: 15px;
+  margin-right: 60px;
+  border-radius: 20px;
+}
+
+.nav-item {
+  color: black;
+  margin-left: 1200px;
+  font-family: italic;
+  font-size: 20px;
+  font-weight: bold; /* Establece el texto en negrita */
+  background-color: hotpink;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+.palabras{
+  color: #ffffff;
+}
+
+.d-block{
+  color: #ffffff;
+}
+
+.barra{
+  background-color: #ffffff;
+  height: 80px;
+}
+
+.catalogo{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.titulo{
+  color: black;
+  font-family: italic;
+  font-size: 50px;
+  margin-left: 20px;
+  margin-top: 5px;
+  white-space: nowrap; 
+  margin-left: 20px;
+}

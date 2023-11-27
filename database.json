@@ -1,0 +1,16 @@
+{
+  "Usuarios": [
+
+  ],
+  "Productos": {
+    "Chocolates": [],
+    "Galletas":[],
+    "Jugos":[],
+    "Gaseosas":[],
+    "Paquetes":[],
+    "Gomitas":[]
+  },
+  "Clientes": [
+
+  ]
+}
